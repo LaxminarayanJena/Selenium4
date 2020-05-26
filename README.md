@@ -1,5 +1,5 @@
 # Selenium4
-Capture Screenshot
-Friendly Locators
-open new tab
-open new window
+Capture Screenshot </br>
+Friendly Locators  </br>
+open new tab </br>
+open new window </br>
